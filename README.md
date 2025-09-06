@@ -20,37 +20,44 @@
 </p>
 
 ## Proyectos
+
 | Enunciado                               | Apuntes      | Ejercicio Resuelto |
 |----------------------------------------|------------------|-----------|
-| Día 0 - Hello World              |       | ex00
+| [Día 0 - Hello World](https://github.com/daviddefitero/aprendiendo-cobol/blob/main/dia0/README.md)              |       | [ex00](https://github.com/daviddefitero/aprendiendo-cobol/blob/main/dia0/ejercicio-resuelto.cob)
 | Día 1 - Sumar dos números              | [Post de LinkedIn](https://www.linkedin.com/posts/david-de-fitero_programaciaejn-cobol-legacysystems-activity-7365131050957598722-EhdA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQAm3oBnSoq61FTTD_0sNmdoLRTOIbFtB0) | ex01      |
 | Día 2 - Condicionales y bucles         | [Post de LinkedIn](https://www.linkedin.com/posts/david-de-fitero_programaciaejn-cobol-legacysystems-activity-7365390478139183104-rjHt?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQAm3oBnSoq61FTTD_0sNmdoLRTOIbFtB0) | ex02      |
 | Día 3 - Manejo de texto                | [Post de LinkedIn](https://www.linkedin.com/posts/david-de-fitero_cobol-activity-7366130934200332288-151h?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQAm3oBnSoq61FTTD_0sNmdoLRTOIbFtB0) | ex03      |
 | Día 4 - Datos y estructuras de datos I | [Post de LinkedIn](https://www.linkedin.com/posts/david-de-fitero_cobol-activity-7369721461822910467-D5N5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQAm3oBnSoq61FTTD_0sNmdoLRTOIbFtB0) | ex04      |
 
 ## Como empezar
+
 La forma de aprendizaje de este repositorio consiste en resolver los proyectos planteados en el enunciado de cada día utilizando los **posts de LinkedIn adjuntos** y las [**documentaciones recomendadas**](#documentaciones-recomendadas).
 
 No es necesario clonar el repositorio.
 
-
 Para este proyecto recomiendo usar el siguiente stack:
+
 - GNUCobol como compilador
 - Vim como editor de texto
 
 ### Instalar GNUCobol
+
 Arch Linux desde AUR
+
 ``` bash
 yay gnucobol
 ```
 
 Debian/Ubuntu
+
 ``` bash
 sudo apt install gnucobol
 ```
 
 Otras distribuciones
+
 - [Descargar código fuente](https://sourceforge.net/projects/gnucobol/files/gnucobol/)
+
 ``` bash
 sudo apt -y install -y build-essential gcc
 ./configure
@@ -59,11 +66,13 @@ sudo make install
 ```
 
 ### Uso de GNUCobol
+
 ``` bash
 cobc [options]... file...
 ```
 
 Para compilar un ejecutable usaremos el argumento -x
+
 ``` bash
 cobc -x archivo.cob
 ```
@@ -71,21 +80,26 @@ cobc -x archivo.cob
 Como el compilador transpila primero el código a C para compilar usando el compilador del sistema operativo, podemos pedirle que nos devuelva el resultado en C o ensamblador:
 
 - C
+
 ``` bash
 cobc -C archivo.cob
 ```
 
 - ASM
+
 ``` bash
 cobc -S archivo.cob
 ```
 
 ## Documentaciones recomendadas
+
 Para facilitar el aprendizaje, en este apartado incluyo documentaciones de COBOL que me han sido muy utiles.
+
 - [IBM COBOL for AIX Programming Guide (PDF)](https://publibfp.boulder.ibm.com/epubs/pdf/c2754040.pdf) - Mi favorito
 - [Tutorialspoint COBOL](https://www.tutorialspoint.com/cobol/index.htm)
 - [IBM COBOL for Linux on x86 documentation](https://www.ibm.com/docs/es/cobol-linux-x86/1.2.0)
 - [IBM Enterprise COBOL for z/OS documentation](https://www.ibm.com/docs/en/cobol-zos)
 
 ## Tienes sugerencias?
+
 En caso de cualquier error que haya cometido o alguna nueva idea para mejorar este repositorio, siéntete libre de abrir un Issue o Pull Request, o contactarme a mi correo electrónico: [david@defitero.com](mailto:david@defitero.com)
