@@ -19,7 +19,7 @@ Este es un Hello World en COBOL:
 
 Si te fijas, primero pasa el Hello World a una variable antes de poner DISPLAY. Esto no es necesario, puedes imprimir directamente el Hello World, es solo para alargar el código y que veas mejor cómo es su sintaxis.
 
-Ahora espera, no lo copies con Ctrl + C y Ctrl + V. Escríbelo tú! Puedes escribirlo de una manera diferente o igual que como esta.
+Ahora espera, no lo copies con Ctrl + C y Ctrl + V. Escríbelo tú! Puedes escribirlo de una manera diferente o igual que como está.
 
 Crearemos nuestro primer fichero COBOL con:
 
