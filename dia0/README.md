@@ -12,7 +12,7 @@
   <tr>
     <td>ex00.cob</td>
     <td>Ninguno</td>
-    <td><a href="https://github.com/daviddefitero/aprendiendo-cobol/blob/main/dia0/ejercicio-resuelto.cob">ejercicio-resuelto.cob</a></td>
+    <td><a href="ejercicio-resuelto.cob">ejercicio-resuelto.cob</a></td>
   </tr>
 </table>
 

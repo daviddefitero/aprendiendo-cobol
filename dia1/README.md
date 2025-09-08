@@ -12,7 +12,7 @@
   <tr>
     <td>ex01.cob</td>
     <td><a href="https://www.linkedin.com/posts/david-de-fitero_programaciaejn-cobol-legacysystems-activity-7365131050957598722-EhdA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQAm3oBnSoq61FTTD_0sNmdoLRTOIbFtB0">Post de LinkedIn</a></td>
-    <td><a href="https://github.com/daviddefitero/aprendiendo-cobol/blob/main/dia1/ejercicio-resuelto.cob">ejercicio-resuelto.cob</a></td>
+    <td><a href="ejercicio-resuelto.cob">ejercicio-resuelto.cob</a></td>
   </tr>
 </table>
 
@@ -26,7 +26,7 @@ Hoy vamos a aprender de verdad cómo funciona la estructura de COBOL y su sintax
 
 
 <div align="center">
-  <img height="300px" src="dia1-ejemplo.jpg">
+  <img height="300px" src="media/dia1-test.jpg">
 </div>
 
 Para hacer lo propuesto, deberás buscar en internet, documentaciones, videos.
