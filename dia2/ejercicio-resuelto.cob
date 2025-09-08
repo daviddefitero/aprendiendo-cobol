@@ -2,8 +2,8 @@
            PROGRAM-ID. EX02.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
-       01 NUM PIC 9(5).
-       01 T-NUM PIC 9(5).
+       01 NUM      PIC 9(5).
+       01 T-NUM    PIC 9(5).
        01 NUM-OUT PIC ZZ,ZZ9.
        PROCEDURE DIVISION.
            ACCEPT NUM.
