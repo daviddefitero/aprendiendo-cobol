@@ -9,8 +9,13 @@
 </p>
 
 <p align="center">
-<h2 align="center">Proyectos para aprender las bases de COBOL de forma práctica</h2>
-<p align="center">Este repositorio contiene los enunciados, soluciones, links a teoría y documentaciones recomendadas, para aprender a programar en el lenguaje COBOL de forma práctica y autodidacta. El objetivo es aprender con retos para asimilar mejor los contenidos y hacer que sea un proceso divertido.</p>
+<h2 align="center">Proyectos para aprender a aprender COBOL de forma práctica</h2>
+<p align="center">Sí, has leído bien. Aquí no vas a memorizar COBOL, vas a <b>aprender a aprender COBOL</b>. Este repositorio no es un manual paso a paso de cómo usar COBOL, es un punto de partida para aprender a moverte por su entorno. Encontrarás retos pensados para que seas tú quien descubra, practique y domine COBOL de una forma divertida y práctica.</p>
+<b>
+<p align="center">No uses IAs.</p>
+<p align="center">Tus fallos entrenan tu cerebro.</p>
+<p align="center">Cada error activa procesos que ninguna máquina puede vivir por ti.</p>
+</b>
 </p>
 
 
@@ -21,17 +26,17 @@
 
 ## Proyectos
 
-| Enunciado                               | Apuntes      | Ejercicio Resuelto |
-|----------------------------------------|------------------|-----------|
-| [Día 0](https://github.com/daviddefitero/aprendiendo-cobol/blob/main/dia0/README.md)              |       | [ex00](https://github.com/daviddefitero/aprendiendo-cobol/blob/main/dia0/ejercicio-resuelto.cob)
-| [Día 1](dia1/README.md)        | [Post de LinkedIn](https://www.linkedin.com/posts/david-de-fitero_programaciaejn-cobol-legacysystems-activity-7365131050957598722-EhdA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQAm3oBnSoq61FTTD_0sNmdoLRTOIbFtB0) | ex01      |
-| Día 2 - Condicionales y bucles         | [Post de LinkedIn](https://www.linkedin.com/posts/david-de-fitero_programaciaejn-cobol-legacysystems-activity-7365390478139183104-rjHt?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQAm3oBnSoq61FTTD_0sNmdoLRTOIbFtB0) | ex02      |
-| Día 3 - Manejo de texto                | [Post de LinkedIn](https://www.linkedin.com/posts/david-de-fitero_cobol-activity-7366130934200332288-151h?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQAm3oBnSoq61FTTD_0sNmdoLRTOIbFtB0) | ex03      |
-| Día 4 - Datos y estructuras de datos I | [Post de LinkedIn](https://www.linkedin.com/posts/david-de-fitero_cobol-activity-7369721461822910467-D5N5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQAm3oBnSoq61FTTD_0sNmdoLRTOIbFtB0) | ex04      |
+<div align="center">
+<h3><a href="dia0/README.md">Día 0</a></h3>
+<h3><a href="dia1/README.md">Día 1</a></h3>
+<h3>Día 2 ⏳</h3>
+<h3>Día 3 ⏳</h3>
+<h3>Día 4 ⏳</h3>
+</div>
 
 ## Como empezar
 
-La forma de aprendizaje de este repositorio consiste en resolver los proyectos planteados en el enunciado de cada día utilizando los **posts de LinkedIn adjuntos** y las [**documentaciones recomendadas**](#documentaciones-recomendadas).
+La metodología de aprendizaje de este repositorio consiste en hacer los proyectos planteados en el enunciado de cada día. Tendrás que investigar por tu cuenta para poder cumplir los criterios fijados. Puedes hacer uso de los **posts de LinkedIn adjuntos** y las [**documentaciones recomendadas**](#documentaciones-recomendadas).
 
 No es necesario clonar el repositorio.
 
@@ -99,6 +104,28 @@ Para facilitar el aprendizaje, en este apartado incluyo documentaciones de COBOL
 - [Tutorialspoint COBOL](https://www.tutorialspoint.com/cobol/index.htm)
 - [IBM COBOL for Linux on x86 documentation](https://www.ibm.com/docs/es/cobol-linux-x86/1.2.0)
 - [IBM Enterprise COBOL for z/OS documentation](https://www.ibm.com/docs/en/cobol-zos)
+
+## Ideas próximas
+
+- Sustituir las soluciones con un script de Python para corregir automáticamente el ejercicio. Ejemplo de la propuesta:
+
+``` bash
+$ python test.py
+
+[✅] ex00.cob passed (50 tests)
+[❌] ex01.cob failed
+
+--- Traceback (most recent call last) ---
+  Exercise: ex01
+  Iteration: 0
+  Input:    '2175 6155'
+  Expected: '8330'
+  Got:      '0'
+-----------------------------
+[❌] ex02.cob: Compilation error
+
+```
+
 
 ## Tienes sugerencias?
 

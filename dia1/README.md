@@ -2,7 +2,7 @@
 
 <table align="center">
   <tr>
-    <th colspan="3">SUM</th>
+    <th colspan="3">SUMA</th>
   </tr>
   <tr>
     <th>Ejercicio</th>
@@ -29,4 +29,6 @@ Hoy vamos a aprender de verdad cómo funciona la estructura de COBOL y su sintax
   <img height="300px" src="dia1-ejemplo.jpg">
 </div>
 
-Si vas a usar los apuntes del post de LinkedIn, ten cuidado, porque el último párrafo y la foto contienen la solución. No veas esa parte hasta que no hayas completado el ejercicio.
+Para hacer lo propuesto, deberás buscar en internet, documentaciones, videos.
+
+Si vas a usar los apuntes del post de LinkedIn, ten cuidado, porque el último párrafo y la foto del artículo contienen la solución. No veas esa parte hasta que no hayas completado el ejercicio.
