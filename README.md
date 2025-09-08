@@ -23,8 +23,8 @@
 
 | Enunciado                               | Apuntes      | Ejercicio Resuelto |
 |----------------------------------------|------------------|-----------|
-| [Día 0 - Hello World](https://github.com/daviddefitero/aprendiendo-cobol/blob/main/dia0/README.md)              |       | [ex00](https://github.com/daviddefitero/aprendiendo-cobol/blob/main/dia0/ejercicio-resuelto.cob)
-| Día 1 - Sumar dos números              | [Post de LinkedIn](https://www.linkedin.com/posts/david-de-fitero_programaciaejn-cobol-legacysystems-activity-7365131050957598722-EhdA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQAm3oBnSoq61FTTD_0sNmdoLRTOIbFtB0) | ex01      |
+| [Día 0](https://github.com/daviddefitero/aprendiendo-cobol/blob/main/dia0/README.md)              |       | [ex00](https://github.com/daviddefitero/aprendiendo-cobol/blob/main/dia0/ejercicio-resuelto.cob)
+| [Día 1](dia1/README.md)        | [Post de LinkedIn](https://www.linkedin.com/posts/david-de-fitero_programaciaejn-cobol-legacysystems-activity-7365131050957598722-EhdA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQAm3oBnSoq61FTTD_0sNmdoLRTOIbFtB0) | ex01      |
 | Día 2 - Condicionales y bucles         | [Post de LinkedIn](https://www.linkedin.com/posts/david-de-fitero_programaciaejn-cobol-legacysystems-activity-7365390478139183104-rjHt?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQAm3oBnSoq61FTTD_0sNmdoLRTOIbFtB0) | ex02      |
 | Día 3 - Manejo de texto                | [Post de LinkedIn](https://www.linkedin.com/posts/david-de-fitero_cobol-activity-7366130934200332288-151h?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQAm3oBnSoq61FTTD_0sNmdoLRTOIbFtB0) | ex03      |
 | Día 4 - Datos y estructuras de datos I | [Post de LinkedIn](https://www.linkedin.com/posts/david-de-fitero_cobol-activity-7369721461822910467-D5N5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQAm3oBnSoq61FTTD_0sNmdoLRTOIbFtB0) | ex04      |

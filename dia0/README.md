@@ -1,5 +1,23 @@
 # Día 0
 
+<table align="center">
+  <tr>
+    <th colspan="3">HELLO-WORLD</th>
+  </tr>
+  <tr>
+    <th>Ejercicio</th>
+    <th>Apuntes</th>
+    <th>Ejercicio Resuelto</th>
+  </tr>
+  <tr>
+    <td>ex00.cob</td>
+    <td>Ninguno</td>
+    <td><a href="https://github.com/daviddefitero/aprendiendo-cobol/blob/main/dia0/ejercicio-resuelto.cob">ejercicio-resuelto.cob</a></td>
+  </tr>
+</table>
+
+Sí! Hoy es el día! Es el comienzo de una nueva aventura.
+
 El objetivo de hoy será simplemente el de observar un Hello World en COBOL, copiarlo y probar a compilarlo.
 
 Este es un Hello World en COBOL:

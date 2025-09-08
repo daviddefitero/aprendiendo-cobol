@@ -15,4 +15,3 @@
            COMPUTE NUM-OUT = A-ARG + B-ARG.
            DISPLAY FUNCTION TRIM (NUM-OUT).
            STOP RUN.
-
