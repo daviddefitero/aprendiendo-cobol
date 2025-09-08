@@ -16,13 +16,13 @@
   </tr>
 </table>
 
-Identification division... Data division... Workin-sto... Como era? Bueno, te acuerdes o no, has aprendido muchisimo.
+Identification division... Data division... Workin-sto... Cómo era? Bueno, te acuerdes o no, has aprendido muchísimo.
 
-A partir de aqui ya va a ser todo una cuesta abajo sin frenos. Ya has pasado por el choque de realidad que te provoca un lenguaje tan diferente a los que estamos acostumbrados a ver.
+A partir de aquí ya va a ser todo una cuesta abajo sin frenos. Ya has pasado por el choque de realidad que te provoca un lenguaje tan diferente a los que estamos acostumbrados a ver.
 
-Hoy es hora de hacer lo que hace 2 siglos hizo por primera vez Ada Lovelace, los bucles! Tambien haras tus primeros condicionales.
+Hoy es hora de hacer lo que hace 2 siglos hizo por primera vez Ada Lovelace, los bucles! También harás tus primeros condicionales.
 
-Los criterios que debera cumplir el programa son los siguientes:
+Los criterios que deberá cumplir el programa son los siguientes:
 
 - Que pida un número entero al usuario.
 - Muestre en pantalla todos los números desde 1 hasta ese número.
