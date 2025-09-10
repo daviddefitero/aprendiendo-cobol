@@ -2,7 +2,7 @@
 
 <table align="center">
   <tr>
-    <th colspan="3">PAR-IMPAR</th>
+    <th colspan="3">PALABRAS</th>
   </tr>
   <tr>
     <th>Ejercicio</th>
