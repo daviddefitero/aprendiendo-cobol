@@ -54,3 +54,7 @@ cobc -x -Wall -Werror -fixed ejercicio.cob
 ```
 
 Recuerda que tienes las soluciones en este mismo directorio.
+
+<div align="center">
+  <img height="350px" src="media/dia0-test.jpg">
+</div>

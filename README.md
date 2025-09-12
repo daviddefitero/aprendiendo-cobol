@@ -20,8 +20,8 @@
 
 
 <p align="center">
-	<img height="500" src="https://raw.githubusercontent.com/daviddefitero/aprendiendo-cobol/refs/heads/main/media/dia4.png">
-	<img height="500" src="https://raw.githubusercontent.com/daviddefitero/aprendiendo-cobol/refs/heads/main/media/dia4-test.png">
+	<img height="500" src="dia4/media/dia4-code.png">
+	<img height="500" src="dia4/media/dia4-test.png">
 </p>
 
 ## Proyectos
