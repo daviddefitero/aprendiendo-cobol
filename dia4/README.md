@@ -16,21 +16,22 @@
   </tr>
 </table>
 
-Seguro que te has fijado en el desorden de variables y datos que se monta cuando haces un programa minimamente complejo, y sino, pues bueno, fijate... Imaginate tener que estar trabajando con esto:
+Seguro que te has fijado en el desorden de variables y datos que se monta cuando haces un programa mínimamente complejo, y si no, pues bueno, fíjate... Imagínate tener que estar trabajando con esto:
+
 <div align="center">
   <img height="400px" src="media/unordered-example.png">
 </div>
 
-Como imagino que no querras tener que enfrentarte a esta aberracion durante tu aprendizaje en COBOL, es hora de aprender las estructuras de datos.
+Como imagino que no querrás tener que enfrentarte a esta aberración durante tu aprendizaje en COBOL, es hora de aprender las estructuras de datos.
 
-Aviso que el día de hoy va a ser muy duro, asi que no te sientas mal si se convierte en un dia de 48 horas...
+Aviso que el día de hoy va a ser muy duro, así que no te sientas mal si se convierte en un día de 48 horas...
 
-El objetivo de hoy consistira en hacer un programa que cumpla los siguientes requisitos:
+El objetivo de hoy consistirá en hacer un programa que cumpla los siguientes requisitos:
 
 - Pide nombre, edad y saldo del cliente.
-- Después, solicita productos en el formato <NOMBRE $PRECIO> hasta alguna de estas condiciones:
-  - El usuario escriba la palabra para finalizar, que sera una constante definida por ti, por ejemplo, FIN.
-  - El usuario llegue a la cantidad maxima de productos, definida tambien en una constante.
+- Después, solicita productos en el formato <NOMBRE $PRECIO> hasta que se cumpla alguna de estas condiciones:
+  - Que el usuario escriba la palabra para finalizar, que será una constante definida por ti, por ejemplo, FIN.
+  - Que el usuario llegue a la cantidad máxima de productos, definida también por ti en una constante.
 - Guarda los datos en una tabla (array) con un tamaño del número de productos.
 - Muestra al final un ticket con:
   - Datos del cliente
