@@ -31,7 +31,7 @@
 <h3><a href="dia1/README.md">Día 1</a></h3>
 <h3><a href="dia2/README.md">Día 2</a></h3>
 <h3><a href="dia3/README.md">Día 3</a></h3>
-<h3>Día 4 ⏳</h3>
+<h3><a href="dia4/README.md">Día 4</a></h3>
 <h3>Día 5 ⏳</h3>
 <h3>Día 6 ⏳</h3>
 <h3>Día 7 ⏳</h3>
